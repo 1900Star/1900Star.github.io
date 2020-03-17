@@ -2,17 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.puppies.app",
+    "package_name": "com.amdm.lightapp2019",
     "sha256_cert_fingerprints":
-    ["14:6D:E9:83:C5:73:06:50:D8:EE:B9:95:2F:34:FC:64:16:A0:83:42:E6:1D:BE:A8:8A:04:96:B2:3F:CF:44:E5"]
-  }
-  },
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.monkeys.app",
-    "sha256_cert_fingerprints":
-    ["14:6D:E9:83:C5:73:06:50:D8:EE:B9:95:2F:34:FC:64:16:A0:83:42:E6:1D:BE:A8:8A:04:96:B2:3F:CF:44:E5"]
+    ["A7:97:8E:A5:15:38:F9:31:6B:1A:76:C4:63:AB:52:71:40:4B:28:84:88:04:D6:28:CF:85:24:8E:B7:FC:76:3A"]
   }
 }]
