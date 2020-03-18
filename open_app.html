@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>测试重定向</title>
+  </head>
+  <body>
+    <script>
+      var app = ''
+      var url = location.href
+      app = url.replace(url.slice(0, 5) === 'https' ? 'https' : 'http', 'app')
+
+      location.href = app
+    </script>
+  </body>
+</html>
